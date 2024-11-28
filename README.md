@@ -46,7 +46,7 @@ This scraper offers a complete solution for extracting member details from any g
 
 ## Pricing
 
-- Price: $50
+- Price: $50 (Note: The price may increase in the future).
 - Contact to Buy: [Reach out via Telegram for more details. ](https://t.me/Githubsupport01)
 
 ## Contact Us
