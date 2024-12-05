@@ -16,7 +16,7 @@ cyanc = Style.BRIGHT + Fore.CYAN
 
 
 print()
-print(f"{magentac}[*] telegram-hidden-group-members-scraper")
+print(f"{magentac}[*] telegram-hidden-group-members-scraper-and-adder")
 print()
 print(f"{cyanc}[*] Contact :https://t.me/Githubsupport01/")
 print()
