@@ -35,13 +35,25 @@ In addition to group chats, you can also scrape members from channel comments, e
 - 🟢 Scrape Members Using Multiple Telegram Accounts
 - 🟢 Use unlimited accounts to add members seamlessly.
 
-![photo_2024-11-28_13-57-17](https://github.com/user-attachments/assets/427b6711-4ca2-4226-910f-4f125af0ce43)
-
-
 
 ## Why This Tool?
 
 This scraper offers a complete solution for extracting member details from any group or channel. With its fully automatic process, lifetime access, and the ability to add members using unlimited accounts, it’s an essential tool for all your Telegram needs.
+
+
+## Scraper:
+
+
+
+https://github.com/user-attachments/assets/aebaf900-35ed-4071-baa3-4c945d423f57
+
+
+
+## Adding:
+
+
+https://github.com/user-attachments/assets/66f841bc-ac7e-4369-96b3-a3fc1a040433
+
 
 
 ## Pricing
