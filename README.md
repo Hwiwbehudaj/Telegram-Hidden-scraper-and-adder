@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/66f841bc-ac7e-4369-96b3-a3fc1a040433
 
 ## Pricing
 
-- Price: $50 (Note: The price may increase in the future).
+- Price: $30 (Note: The price may increase in the future).
 - Contact to Buy: [Reach out via Telegram for more details. ](https://t.me/Githubsupport01)
 
 ## Contact Us
